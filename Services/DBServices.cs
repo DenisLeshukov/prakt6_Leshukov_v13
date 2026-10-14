@@ -1,7 +1,7 @@
 ﻿using prakt6_Leshukov.Models;
 using System.Collections.ObjectModel;
 
-namespace prakt6_Leshukov
+namespace prakt6_Leshukov.Services
 {
     public class DBServices
     {
